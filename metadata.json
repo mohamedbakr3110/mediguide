@@ -1,0 +1,6 @@
+{
+  "name": "MediGuide — Medical Knowledge & Emergency Guidance Platform",
+  "description": "A bilingual medical knowledge and emergency guidance platform featuring first-aid protocols, medical triage AI assistant, verified health articles, and ASP.NET Core API integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for connecting MediGuide frontend to an external ASP.NET Core Web API and Microsoft SQL Server database, including live connection config, health checks, EF Core models, and resilient local fallback.",
+  "updatedAt":  "2026-10-11T15:42:00.546730582Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
